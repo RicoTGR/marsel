@@ -1,0 +1,36 @@
+.card {
+	display: inline-block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 32%;
+    border: 2px solid white;
+    background: black;
+	height: 60%;
+}
+.picture {
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	background: black;
+	color: white; 
+}
+footer {
+	bottom: 0;
+	position: absolute;
+	right: 0;
+	color: white;
+}
+body {
+	background: url("./21/background.jpg");
+}
